@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    background-color: skyblue;
 }
 
 .background {
@@ -9,8 +10,8 @@ body {
 .submission {
     text-align: center;
     display: inline-block;
-    height: 709px;
-    width: 1536px;
+    height: 100%;
+    width: 100%;
     background-color: skyblue;
 }
 
